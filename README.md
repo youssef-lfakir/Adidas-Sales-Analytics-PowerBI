@@ -6,7 +6,7 @@ An end-to-end data analysis and visualization project analyzing **3.1M+ Adidas s
 ---
 
 ## 📸 Dashboard Preview
-(images/dashboard_preview1.png)
+![Adidas Sales Dashboard](images/dashboard_preview1.png)
 
 ---
 
@@ -53,9 +53,3 @@ The dataset is structured as a **Star Schema** relational database in Microsoft 
 ├── images/
 │   └── dashboard_preview1.png  # High-resolution dashboard screenshot
 └── README.md                   # Project documentation
-
-
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/youssef-lfakir/Adidas-Sales-Analytics-PowerBI.git](https://github.com/youssef-lfakir/Adidas-Sales-Analytics-PowerBI.git)
