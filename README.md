@@ -6,7 +6,7 @@ An end-to-end data analysis and visualization project analyzing **3.1M+ Adidas s
 ---
 
 ## 📸 Dashboard Preview
-![Adidas Sales Dashboard](images/dashboard_preview1.png)
+![Dashboard Preview](dashboard_preview1.png)
 
 ---
 
